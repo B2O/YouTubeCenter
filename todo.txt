@@ -89,6 +89,7 @@
  - Hide all feeds on the homepage
  - Option to use classic pagination.
  - Make an option to set the topbar on YouTube to be fixed.
+ - Option to replay video from Time [XX:XX] to [XX:XX] (useful for music vids with in-/outro sequences)
 
 ---------------------------------------
 I have been using YTC for a while now and I am impressed by all the nice featues that get added from version to version. 
